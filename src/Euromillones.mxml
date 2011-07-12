@@ -4,4 +4,5 @@
 	<fx:Declarations>
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
+	<s:Label id="label1" text="d2"/>
 </s:Application>
